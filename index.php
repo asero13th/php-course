@@ -7,6 +7,14 @@
     <title>Document</title>
 </head>
 <body>
+    <?php 
+     /* 
+     we can use print, echo, var_export(), var_dumb()
+     
+     */
+      
+     
+    ?>
     <h1><?= 'hello there'; ?></h1>
 </body>
 </html>
